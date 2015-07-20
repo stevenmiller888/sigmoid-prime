@@ -1,11 +1,11 @@
 {
-  "name": "sigmoidPrime",
+  "name": "sigmoid-prime",
   "description": "The derivative of the sigmoid function",
   "author": "Steven Miller",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stevenmiller888/sigmoidprime"
+    "url": "https://github.com/stevenmiller888/sigmoid-prime"
   },
   "main": "lib/index.js",
   "license": "MIT",
